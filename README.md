@@ -9,4 +9,5 @@ In addition, the map contains markers for the start and end points, a polyline f
 ayer control for switching between different map functions.
 
 **See UI below:**
+
 <img width="400" alt="Screenshot 2025-02-01 at 17 12 44" src="https://github.com/user-attachments/assets/212e4389-518c-49b3-b33d-18408ce01d4b" />
