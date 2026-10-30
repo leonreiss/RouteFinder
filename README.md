@@ -1,6 +1,6 @@
 # Navigation Route Finder · Aachen
 
-**Shortest driving routes through the real street network of Aachen, computed with a hand-written Dijkstra algorithm on OpenStreetMap data.**
+**Shortest driving routes through the real street network of Aachen, computed with a Dijkstra algorithm on OpenStreetMap data.**
 
 ![Shortest route from the RWTH main building to Aachen Hauptbahnhof](overview.png)
 
